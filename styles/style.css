@@ -342,7 +342,10 @@ span {
     font-size: 2rem;
 }
 
-
+.publications li {
+    font-size: 2rem;
+    margin: 1rem 0;
+}
 
 /*=========== Projects ==========*/
 
